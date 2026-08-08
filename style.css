@@ -1,0 +1,53 @@
+#buttons
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap:10px;
+}
+
+#container
+{
+    width:min(90vw,400px);
+    text-align: center;
+    background-color:#E5D2BE;
+    margin: auto;
+    padding: 10px;
+}
+
+#result
+{
+    height: 80px;
+    margin-bottom: 15px;
+    background-color:#49352C;
+}
+
+button
+{
+    background-color: #f3eee8;
+    box-shadow: 5px 5px 5px rgb(186, 191, 196);
+    border: none;
+    margin: 5px;
+    padding: 2px;
+    font-size: large;
+}
+
+button:hover
+{
+    background-color:#C48B82;
+    box-shadow: 2px 2px 2px rgb(155, 119, 119);
+}
+
+button:active
+{
+    transform: translateY(2px);
+}
+
+.oprt
+{
+    background-color:#9B6B5A;
+}
+
+#equal
+{
+    background-color:#70483A;
+}
