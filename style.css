@@ -19,6 +19,10 @@
     height: 80px;
     margin-bottom: 15px;
     background-color:#49352C;
+    font-size:xx-large;
+    text-align: center;
+    font-weight: bolder;
+    color: aliceblue;
 }
 
 button
