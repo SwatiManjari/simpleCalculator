@@ -1,19 +1,31 @@
 # Calculator
 
-A simple calculator UI built using HTML and CSS.
+A simple calculator built using HTML, CSS, and JavaScript.
 
-## Current Features
+## Features
 
-- Calculator layout with a display area
-- Number and operator buttons
-- Responsive button grid
-- Styled calculator interface
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Modulo
+* Decimal numbers
+* Clear button
+* Backspace button
 
 ## Technologies Used
 
-- HTML
-- CSS
+* HTML
+* CSS
+* JavaScript
 
-## Future Plans
+## Project Structure
 
-JavaScript functionality will be added later to make the calculator interactive and perform calculations.
+```text
+calculator/
+├── index.html
+├── style.css
+├── index.js
+└── README.md
+```
+
