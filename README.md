@@ -1,31 +1,36 @@
-# Calculator
+# Simple Calculator
 
-A simple calculator built using HTML, CSS, and JavaScript.
+A simple and responsive calculator built using HTML, CSS, and JavaScript.
 
 ## Features
 
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* Modulo
-* Decimal numbers
-* Clear button
-* Backspace button
+- Basic arithmetic operations
+- Clear display
+- Error handling for invalid expressions
+- Responsive design
+- Interactive calculator buttons
+- Clean and simple user interface
 
 ## Technologies Used
 
-* HTML
-* CSS
-* JavaScript
+- HTML
+- CSS
+- JavaScript
+
+## JavaScript Functionality
+
+The calculator uses JavaScript functions to:
+
+- Append numbers and operators to the display
+- Clear the calculator display
+- Calculate the entered expression
+- Handle invalid expressions using `try...catch`
 
 ## Project Structure
 
 ```text
-calculator/
+simpleCalculator/
 ├── index.html
 ├── style.css
 ├── index.js
 └── README.md
-```
-
