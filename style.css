@@ -57,3 +57,20 @@ button:hover
 {
     background-color: rgb(75, 75, 75);
 }
+
+button:active
+{
+    background-color:rgb(135, 134, 134);
+}
+.operator
+{
+    background-color: rgb(213, 153, 42);
+}
+.operator:hover
+{
+    background-color: rgb(227, 183, 100);
+}
+.operator:active
+{
+    background-color: rgb(235, 205, 150);
+}
