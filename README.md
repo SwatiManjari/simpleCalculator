@@ -34,3 +34,15 @@ simpleCalculator/
 ├── style.css
 ├── index.js
 └── README.md
+
+## How to Run
+
+1. Clone the repository.
+2. Open the project folder.
+3. Open index.html in a web browser.
+4. Use the calculator.
+
+## Branches
+
+- main - Original version of the calculator
+- new-design - Improved UI and interactivity
